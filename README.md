@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I have a never ending passion to explore new opportunities to learn and grow 😄
 
 <h3 align='center'>
-My Tech Stack:
+My Tech Stack
 </h3>
 
 <p align='center'>
@@ -45,13 +45,22 @@ My Tech Stack:
 
 <h3 align='center'>
 
-  How to reach me:
+  How to reach me 
 </h3>
 <p align='center'>
-  <a href="www.linkedin.com/in/louisa-yonzon">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/louisa-yonzon/"> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p> 
+
+
+
+
+
+
+ 
+
+
 
 
 
