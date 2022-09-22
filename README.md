@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 - 📍 Currently based in Los Angeles, CA
-- 🗿 Fun fact: I love long distance running and Naruto 🫶🏽
+- 🗿 Fun fact: I love long distance running 🫶🏽
 - 🌱 I have a never ending passion to explore new opportunities to learn and grow 😄
 
 <h3 align='center'>
