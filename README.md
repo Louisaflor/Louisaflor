@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  I am a full stack software engineer that has a passion for problem solving and is always looking for opportunities to grow. Because I am captivated by the fast changing landscape in the tech industry, I hope to become an active member in the developer community.
 </p>
 
-- 📍 Currently based in Los Angeles, CA
+- 📍 Currently based in San Diego, CA
 - 🗿 Fun fact: I love long distance running 🫶🏽
 - 🌱 I have a never ending passion to explore new opportunities to learn and grow 😄
 
