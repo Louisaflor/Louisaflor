@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
- I am a full stack software engineer that has a passion for problem solving and is always looking for opportunities to grow. Because I am captivated by the fast changing landscape in the tech industry, I hope to become an active member in the developer community.
+ I am currently a Web Developer that has a passion for problem solving and is always looking for opportunities to grow. Because I am captivated by the fast changing landscape in the tech industry, I hope to become an active member in the developer community.
 </p>
 
 - 📍 Currently based in San Diego, CA
