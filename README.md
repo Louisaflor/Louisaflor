@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📍 Currently based in San Diego, CA
 - 🗿 I enjoy long distance running 🫶🏽
-- 🌱 I have a never ending passion to explore new opportunities to learn and grow 😄
+- 🌱 Always willing to learn
 
 <h3 align='center'>
 My Tech Stack
