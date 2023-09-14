@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
- I'm a Web Developer that has a passion for problem solving and is always looking for opportunities to grow. Because I am captivated by the fast changing landscape in the tech industry, I hope to become an active member in the developer community.
+ I'm a Web Developer that has a passion for problem solving and is always looking for opportunities to grow. I enjoy long distance running, traveling, and always willing to learn.
 </p>
 
 - 📍 Currently based in San Diego, CA
-- 🗿 I enjoy long distance running 🫶🏽
-- 🌱 Always willing to learn
+- 📫 E-mail me at: **louisa.yonzon6@gmail.com**
 
 <h3 align='center'>
 My Tech Stack
